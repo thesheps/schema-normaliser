@@ -1,0 +1,5 @@
+c:\sandbox\MigrationTest\Data\bin\Debug\Data.dll
+c:\sandbox\MigrationTest\Data\bin\Debug\Data.pdb
+c:\sandbox\MigrationTest\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\sandbox\MigrationTest\Data\obj\Debug\Data.dll
+c:\sandbox\MigrationTest\Data\obj\Debug\Data.pdb

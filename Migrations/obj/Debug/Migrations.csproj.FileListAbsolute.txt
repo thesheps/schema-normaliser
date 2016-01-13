@@ -1,0 +1,16 @@
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Migrations.dll
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Migrations.pdb
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Dapper.dll
+c:\sandbox\MigrationTest\Migrations\bin\Debug\FluentMigrator.dll
+c:\sandbox\MigrationTest\Migrations\bin\Debug\FluentMigrator.Runner.dll
+c:\sandbox\MigrationTest\Migrations\bin\Debug\System.Data.SqlServerCe.dll
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Dapper.pdb
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Dapper.xml
+c:\sandbox\MigrationTest\Migrations\bin\Debug\FluentMigrator.pdb
+c:\sandbox\MigrationTest\Migrations\bin\Debug\FluentMigrator.xml
+c:\sandbox\MigrationTest\Migrations\bin\Debug\FluentMigrator.Runner.pdb
+c:\sandbox\MigrationTest\Migrations\obj\Debug\Migrations.csprojResolveAssemblyReference.cache
+c:\sandbox\MigrationTest\Migrations\obj\Debug\Migrations.dll
+c:\sandbox\MigrationTest\Migrations\obj\Debug\Migrations.pdb
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Data.dll
+c:\sandbox\MigrationTest\Migrations\bin\Debug\Data.pdb
